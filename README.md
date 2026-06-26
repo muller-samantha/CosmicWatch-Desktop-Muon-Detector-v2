@@ -10,6 +10,7 @@ data_collection_py3.py is a further edited version that notes the exact detector
 
 Collecting data for each detector should be conducted using the data_collection_py3.py script
 
+***These updated scripts are in the Data Collection directory**
 
 Some important v2 links:
 ---------------------------------
